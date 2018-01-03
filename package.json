@@ -1,0 +1,14 @@
+{
+  "name": "color_game",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "live": "live-server app.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
